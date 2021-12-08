@@ -1,0 +1,11 @@
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.csproj.AssemblyReference.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.csproj.SuggestedBindingRedirects.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.Form1.resources
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.Properties.Resources.resources
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.csproj.GenerateResource.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.csproj.CoreCompileInputs.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\bin\Debug\P6_1_1204036.exe.config
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\bin\Debug\P6_1_1204036.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\bin\Debug\P6_1_1204036.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P6_1_1204036\P6_1_1204036\obj\Debug\P6_1_1204036.pdb
